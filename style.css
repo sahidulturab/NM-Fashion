@@ -1,10 +1,45 @@
+body {
+    /* font-family: 'Bebas Neue', cursive;.features img { */
 
-.features img {
-    width: 50%;
+}
+header {
+    /* background-color: rgb(229, 218, 155); */
 }
 .imgg {
     width: 200px;
    } 
-   .navbar img {
+.navbar img {
        width: 300px;
    }
+ p {
+   font-family: Arial, Helvetica, sans-serif;
+    font-weight: 10;
+ }
+
+.imgw img {
+    max-width: 200px;
+    height: 300px;
+    object-fit: cover;
+}
+.usd {
+    font-size: 50px;
+    color: goldenrod;
+}
+.imgman img {
+    max-width: 250px;
+    height: 300px;
+    
+}
+/* .imglast img {
+    max-width: 10px;
+    height: 100px;
+    object-fit: cover;
+} */
+.hh {
+    font-size: 50px;
+    line-height: 1.2;
+    
+}
+.hh span {
+    color: goldenrod;
+}
