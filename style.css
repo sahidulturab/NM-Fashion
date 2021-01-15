@@ -43,3 +43,16 @@ header {
 .hh span {
     color: goldenrod;
 }
+
+.nav-item {
+    padding-left: 20px;
+    font-size: 20px;
+    
+}
+a {
+    text-decoration: none;
+    color: rgb(78, 68, 68);
+}
+.butt {
+    font-weight: 500;
+}
